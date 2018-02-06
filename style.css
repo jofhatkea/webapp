@@ -1,3 +1,7 @@
 body {
   background: red;
 }
+nav a{
+	padding: 1em;
+	background: green;
+}
