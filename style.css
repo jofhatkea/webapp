@@ -2,6 +2,11 @@ body {
   background: red;
 }
 
+nav a{
+	padding: 1em;
+	background: green;
+}
+
 footer {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
